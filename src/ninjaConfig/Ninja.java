@@ -18,6 +18,7 @@ public class Ninja {
                     + "\nIdade: " + ninja.idade()
                     + "\nVila: " + ninja.vila());
         }
+        
     }
 
     public NinjaRecord procurarNinja(String nome) {
