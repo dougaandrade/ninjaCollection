@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-import ninjaConfig.Ninja;
+import ninjaClass.Ninja;
 import records.NinjaRecord;
 
 public class GerenciadorNinjas extends Ninja {

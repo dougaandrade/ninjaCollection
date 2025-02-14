@@ -1,4 +1,4 @@
-package ninjaConfig;
+package ninjaClass;
 
 import java.util.LinkedList;
 import records.NinjaRecord;
@@ -18,7 +18,7 @@ public class Ninja {
                     + "\nIdade: " + ninja.idade()
                     + "\nVila: " + ninja.vila());
         }
-        
+
     }
 
     public NinjaRecord procurarNinja(String nome) {
